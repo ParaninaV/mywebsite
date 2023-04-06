@@ -1,0 +1,15 @@
+.btn-blue {
+    color: aliceblue;
+    background-color: purple;
+    border: 1px solid purple;
+    border-radius: 7px;
+    padding: 16px;
+    font-weight: bold;
+}
+
+.btn-blue:hover {
+    background-color: aliceblue;
+    color: purple;
+    transform: rotate(360deg);
+    transition: 1s;
+}
